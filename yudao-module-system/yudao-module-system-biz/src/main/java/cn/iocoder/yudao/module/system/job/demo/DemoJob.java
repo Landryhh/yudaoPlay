@@ -10,7 +10,7 @@ public class DemoJob {
     @XxlJob("demoJob")
     @TenantJob
     public void execute() {
-        System.out.println("美滋滋");
+        System.out.println("美滋滋呢");
     }
 
 }
