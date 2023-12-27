@@ -42,6 +42,9 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
 import static org.mockito.ArgumentMatchers.eq;
 import static org.mockito.Mockito.*;
 
+/**
+ * 测试
+ */
 @Import(AdminAuthServiceImpl.class)
 public class AdminAuthServiceImplTest extends BaseDbUnitTest {
 
